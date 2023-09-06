@@ -10,6 +10,7 @@
   ### 🌱 I’m currently learning mobile developing.<br></br>
   ### ✔️ I'm interested in mobile AI&Security.<br></br>
   <br></br>
+   ## 👨🏻‍🎓 Language 👨🏻‍🎓
   ### 🛠 Favorite Languages 🛠
 <!--
 안드로이드 뱃지
