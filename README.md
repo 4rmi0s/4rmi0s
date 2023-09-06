@@ -70,7 +70,10 @@ C 뱃지
 <!--이메일 링크 걸기 링크걸기--><a href="mailto:hohoho00@sch.ac.kr" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=GMail&logoColor=white"/>
 <br></br><br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkHoHo)](https://github.com/anuraghazra/github-readme-stats)
+#### :pencil2: Spec
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkHoHo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkHoHo&show_icons=true&theme=radical)
+
 
 
 
