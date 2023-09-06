@@ -3,13 +3,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=개발세발%20계발일지&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-  <br></br>
+  <br></br>  <br>
  
  ## 👨🏻‍🎓 ABOUT ME 👨🏻‍🎓
   ### 🔭 I’m studying at Soonchunhyang University.<br></br>
   ### 🌱 I’m currently learning mobile developing.<br></br>
   ### ✔️ I'm interested in mobile AI&Security.<br></br>
-
+  <br></br>
   ### 🛠 Favorite Languages 🛠
 <!--
 안드로이드 뱃지
@@ -25,6 +25,7 @@ IOS 뱃지
  
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 
+  <br></br>
 ### 🛠 I've used at least once 🛠 
 <!--
 C 뱃지
@@ -41,7 +42,7 @@ C 뱃지
 <br></br>
 <img src="https://img.shields.io/badge/Linux-007ACC?style=flat-square&logo=Linux&logoColor=white"/>
 
-
+  <br></br>
  
 ### 🛠 Tools 🛠
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
@@ -68,11 +69,15 @@ C 뱃지
 <!--노션 링크걸기 --><a href="https://parkhoho.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <!--인스타그램 링크걸기--><a href="https://www.instagram.com/p_ho_ho/" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!--이메일 링크 걸기 링크걸기--><a href="mailto:hohoho00@sch.ac.kr" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=GMail&logoColor=white"/>
-<br></br><br></br>
+<br></br>
+### :pencil2: Spec
 
-#### :pencil2: Spec
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkHoHo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkHoHo&show_icons=true&theme=radical)
+
+</div>
+
+
+
 
 
 
@@ -92,6 +97,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
 
 
