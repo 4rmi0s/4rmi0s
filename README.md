@@ -1,17 +1,12 @@
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkHoHo&show_icons=true&theme=radical)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+👋)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParkHoHo&theme=tokyonight)](https://git.io/streak-stats)
  
  ## 👨🏻‍🎓 ABOUT ME 👨🏻‍🎓
-  ### 🔭 I’m studying at Soonchunhyang University.</br>
-  ### 🌱 I’m currently learning mobile developing.</br>
-  ### ✔️ I'm interested in mobile AI&Security.</br>
-
-  <br></br>
 
 
-### 📫 How to reach me: 
-
-
+## 📫 REACH ME : 
 <!--옵시디언 링크걸기 --><a href="" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white"/></a>
 <!--인스타그램 링크걸기--><a href="https://www.instagram.com/p_ho_ho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <!--이메일 링크 걸기 링크걸기--><a href="mailto:ddalgicake2000@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
@@ -38,6 +33,7 @@
     <br>
     <img src="https://img.shields.io/badge/VMWare-607078?style=flat-square&logo=VMWare&logoColor=white">
     <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
   
 </div><br>
 
