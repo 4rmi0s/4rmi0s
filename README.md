@@ -8,22 +8,54 @@
   <summary>학교</summary>
   <div>
     <ul>
-      <li>순천향대 정보보호학과 입학(2021~)</li>
-      <li>순천향대 정보보호 동아리 Security-First 리버싱팀(2021.03 ~ 2021.12)</li>
+     </br>
+      <li>순천향대 정보보호학과 입학(2021~)</li> </br>
+      <li>순천향대 정보보호학과 성적 장학금-장려 (1학년 2학기) </li></br>
+      <li>순천향대 정보보호학과 수석(2학년 2학기)</li></br>
+      <li>순천향대 정보보호 동아리 Security-First 리버싱팀(2021.03 ~ 2021.12)</li></br>
       <li>순천향대 인공지능보안 연구실 CTI (2021.12 ~ 2022.12)</li>
-      <li>순천향대 취약점분석 동아리 TOOR 모바일 취약점 분석팀(2022.08~2023.03) </li>
+      <ul>
+          <li>논문 투고 - RF Fingerprinting Method for Passive Key Entry System Authentication using MFCC features (WISA)</li>
+          <li>논문 투고 - Man-in-the-middle Atack Simulation for Embedded System utilizing BLE Communicatoin(정보보호협회 추계학술대회)</li>
+      </ul>
+     </br>
+      <li>순천향대 취약점분석 동아리 TOOR 모바일 취약점 분석팀(2022.08~2023.03)</li>
+     <ul>
+      <li>디스코드 취약점 발견 및 분석 (0-day attack -> Patch -> 1-day attack)</li></br>
+     </ul>
     </ul>
   </div>
 </details>
+
 
 <details markdown="1">
   <summary>외부활동</summary>
   <div>
     <ul>
-      <li>S-개발자 1기 2차 수료(2023.06 ~2023.12)</li>
+     <br>
+      <li>S-개발자 1기 2차 수료(2023.06 ~2023.12)</li></br>
       <li>이스트 시큐리티 참여 프로젝트(2023.09 ~2023.12)</li>
+     <ul>
+      <li>
+       윈도우취약점점검도구 제작
+      </li>
+     </ul>
+    </br>
+      <li>KISIA 주최 정보보호 해커톤(2023.11.13~11.14)</li>
+     <ul>
+      <li>
+       QRCode 인증 서비스 - iOS 앱개발, 프론트엔드 개발
+      </li>
+     </ul>
     </ul>
   </div>
+</details>
+
+<details markdown="1">
+ <summary>성적</summary>
+ <div>
+  
+ </div>
 </details>
 
 ## 📫 REACH ME : 
