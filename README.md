@@ -3,15 +3,28 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParkHoHo&theme=tokyonight)](https://git.io/streak-stats)
  
- ## 👨🏻‍🎓 ABOUT ME 💻
-순천향대 정보보호학과 입학(2021~)</br>
-순천향대 정보보호 동아리 Security-First 리버싱팀(2021.03 ~ 2021.12)</br>
-순천향대 인공지능보안 연구실 CTI (2021.12 ~ 2022.12)</br>
-순천향대 취약점분석 동아리 TOOR 모바일 취약점 분석팀(2022.08~2023.03)</br>
+ ## 👨🏻‍🎓 Activity 💻
+ <details markdown="1">
+  <summary>학교</summary>
+  <div>
+    <ul>
+      <li>순천향대 정보보호학과 입학(2021~)</li>
+      <li>순천향대 정보보호 동아리 Security-First 리버싱팀(2021.03 ~ 2021.12)</li>
+      <li>순천향대 인공지능보안 연구실 CTI (2021.12 ~ 2022.12)</li>
+      <li>순천향대 취약점분석 동아리 TOOR 모바일 취약점 분석팀(2022.08~2023.03) </li>
+    </ul>
+  </div>
+</details>
 
-
-
-
+<details markdown="1">
+  <summary>외부활동</summary>
+  <div>
+    <ul>
+      <li>S-개발자 1기 2차 수료(2023.06 ~2023.12)</li>
+      <li>이스트 시큐리티 참여 프로젝트(2023.09 ~2023.12)</li>
+    </ul>
+  </div>
+</details>
 
 ## 📫 REACH ME : 
 <!--옵시디언 링크걸기 --><a href="" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white"/></a>
