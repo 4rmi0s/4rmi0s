@@ -7,6 +7,17 @@
   ### ✔️ I'm interested in mobile AI&Security.</br>
 
   <br></br>
+
+
+### 📫 How to reach me: 
+
+
+<!--옵시디언 링크걸기 --><a href="" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white"/></a>
+<!--인스타그램 링크걸기--><a href="https://www.instagram.com/p_ho_ho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<!--이메일 링크 걸기 링크걸기--><a href="mailto:ddalgicake2000@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+<br></br>
+
+
 ## 🛠 I've used at least once 🛠 
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -21,26 +32,14 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
     <br>
-    
-    
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
-    <br>
+    <img src="https://img.shields.io/badge/VMWare-607078?style=flat-square&logo=VMWare&logoColor=white">
+    <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white">
+  
 </div><br>
-
-### 📫 How to reach me: 
-
-<!--노션 링크걸기 --><a href="https://parkhoho.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<!--인스타그램 링크걸기--><a href="https://www.instagram.com/p_ho_ho/" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<!--이메일 링크 걸기 링크걸기--><a href="mailto:hohoho00@sch.ac.kr" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=GMail&logoColor=white"/>
-<br></br>
-
-
-
-
-
-
-
 
 
 
