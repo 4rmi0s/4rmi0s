@@ -1,4 +1,4 @@
-<div align="center"> 
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=개발세발%20계발일지&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
@@ -74,8 +74,6 @@ C 뱃지
 ### :pencil2: Spec
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkHoHo&show_icons=true&theme=radical)
-
-</div>
 
 
 
