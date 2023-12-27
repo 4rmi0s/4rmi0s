@@ -5,7 +5,6 @@
  ## 👨🏻‍🎓 Interested In 💻
  ### 1. 모바일 보안
  ### 2. LLVM
- - [swiftc Analyze](obsidian://open?vault=memo&file=3.%20Resource%2FiOS%2Freverse%20engineering%2FiOS%20reversing%2FDreamhack%2FDEBUG_CHALLENGE%20%EB%B6%84%EC%84%9D)
  ### 3. 컴파일러
  ### 4. iOS / AOS
  ### 5. Reverse Engineering
