@@ -70,9 +70,7 @@
 </details>
 
 ## 📫 REACH ME : 
-<!--옵시디언 링크걸기 --><a href="obsidian://open?vault=memo&file=3.%20Resource%2FiOS%2Freverse%20engineering%2FiOS%20reversing%2FDreamhack%2FDEBUG_CHALLENGE%20%EB%B6%84%EC%84%9D" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white"/></a>
-<!--인스타그램 링크걸기--><a href="https://www.instagram.com/p_ho_ho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<!--이메일 링크 걸기 링크걸기--><a href="mailto:ddalgicake2000@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+<!--옵시디언 링크걸기 --><a href="" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white"/></a><!--인스타그램 링크걸기--><a href="https://www.instagram.com/p_ho_ho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a><!--이메일 링크 걸기 링크걸기--><a href="mailto:ddalgicake2000@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 </br>
 
 
