@@ -112,6 +112,7 @@
       <td align="center"><img src="https://img.shields.io/badge/iOS-000000" width="100px;" alt=""/><br /><sub><b>iOS</b></sub></a><br /></td>
       <td align="center"><img src="https://img.shields.io/badge/Android-34A853" width="100px;" alt=""/><br /><sub><b>Android</b></sub></a><br /></td>
       <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624" width="100px;" alt=""/><br /><sub><b>Linux</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/macos-000000" width="100px;" alt=""/><br /><sub><b>MacOS</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
