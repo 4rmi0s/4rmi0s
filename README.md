@@ -81,7 +81,7 @@
 <details>
   <summary>기술 스택</summary>
 
-## 🛠 My Favorite ❤️ 🛠 
+##  My Favorite ❤️
 <table>
   <tbody>
     <tr>
@@ -92,21 +92,19 @@
   </tbody>
 </table>
 
-</br>
-
-## 🛠 Used Editor 🛠 
+## Used Editor 🛠 
 <table>
   <tbody>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Andoid Studio-3DDC84" width="100px;" alt=""/><br /><sub><b>Android-Studio</b></sub></a><br /></td>
       <td align="center"><img src="https://img.shields.io/badge/Xcode-147EFB" width="100px;" alt=""/><br /><sub><b>Xcode</b></sub></a><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC" width="100px;" alt=""/><br /><sub><b>VSCode</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/visualstudiocode-007ACC" width="100px;" alt=""/><br /><sub><b>VSCode</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
 
 
-## Favorite OS
+## Favorite OS 💻
 
 <table>
   <tbody>
