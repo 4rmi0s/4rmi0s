@@ -117,8 +117,8 @@
   <tbody>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Andoid Studio-3DDC84" width="100px;" alt=""/><br /><sub><b>Android-Studio</b></sub></a><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Kotlin-7F52FF?" width="100px;" alt=""/><br /><sub><b>Kotlin</b></sub></a><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/dart-0175C2" width="100px;" alt=""/><br /><sub><b>Dart</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Xcode-147EFB" width="100px;" alt=""/><br /><sub><b>Xcode</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC" width="100px;" alt=""/><br /><sub><b>VSCode</b></sub></a><br /></td>
      <tr/>
       <td align="center"><img src="https://img.shields.io/badge/html5-E34F26" width="100px;" alt=""/><br /><sub><b>html</b></sub></a><br /></td>
       <td align="center"><img src="https://img.shields.io/badge/css-1572B6" width="100px;" alt=""/><br /><sub><b>css</b></sub></a><br /></td>
@@ -130,18 +130,6 @@
     </tr>
   </tbody>
 </table>
-
-
-
-    <br>
-    <img src="https://img.shields.io/badge/?style=flat-square&logo=android studio&logoColor=white">
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/VMWare-607078?style=flat-square&logo=VMWare&logoColor=white">
-    <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
   
 </div><br>
 
