@@ -106,7 +106,7 @@
     </tr>
       <td align="center"><b>Android-Studio</b></td>
       <td align="center"><b>Xcode</b></td>
-      <td align="center"><b>VisualStudioCode</b></td>
+      <td align="center"><b>VSCode</b></td>
     </tr>
   </tbody>
 </table>
@@ -122,7 +122,7 @@
       <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624" width="100px;" alt=""/><br /><br /></td>
       <td align="center"><img src="https://img.shields.io/badge/macos-000000" width="100px;" alt=""/><br /><br /></td>
     </tr>
-      <td align="center"><b>iOS</b></td>
+      <td align="center"><b>iOS 👍🏻</b></td>
       <td align="center"><b>Android</b></td>
       <td align="center"><b>Linux</b></td>
       <td align="center"><b>MacOS</b></td>
