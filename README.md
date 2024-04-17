@@ -128,7 +128,6 @@
 </br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
-<img src="https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=C#&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker#&logoColor=white">
 
