@@ -76,21 +76,65 @@
 <!--이메일 링크 걸기 링크걸기--><a href="mailto:ddalgicake2000@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 </br>
 
+## 🛠 My Favorite ❤️ 🛠 
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/swift-F05138" width="100px;" alt=""/><br /><sub><b>SWIFT</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/c++-00599C" width="100px;" alt=""/><br /><sub><b>C++</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/python-3776AB" width="100px;" alt=""/><br /><sub><b>Python</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+</br>
+
 
 ## 🛠 I've used at least once 🛠 
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/java-007396?" width="100px;" alt=""/><br /><sub><b>JAVA</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Kotlin-7F52FF?" width="100px;" alt=""/><br /><sub><b>Kotlin</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/dart-0175C2" width="100px;" alt=""/><br /><sub><b>Dart</b></sub></a><br /></td>
+     <tr/>
+      <td align="center"><img src="https://img.shields.io/badge/html5-E34F26" width="100px;" alt=""/><br /><sub><b>html</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/css-1572B6" width="100px;" alt=""/><br /><sub><b>css</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/javascript-F7DF1E" width="100px;" alt=""/><br/><sub><b>javascript</b></sub></a><br /></td>
+    </tr>
+      <td align="center"><img src="https://img.shields.io/badge/C-A8B9CC" width="100px;" alt=""/><br /><sub><b>C</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/go-00ADD8" width="100px;" alt=""/><br /><sub><b>Go</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Rust-000000" width="100px;" alt=""/><br /><sub><b>Rust</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">  
-    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+
+## 🛠 Used Editor 🛠 
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Andoid Studio-3DDC84" width="100px;" alt=""/><br /><sub><b>Android-Studio</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Kotlin-7F52FF?" width="100px;" alt=""/><br /><sub><b>Kotlin</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/dart-0175C2" width="100px;" alt=""/><br /><sub><b>Dart</b></sub></a><br /></td>
+     <tr/>
+      <td align="center"><img src="https://img.shields.io/badge/html5-E34F26" width="100px;" alt=""/><br /><sub><b>html</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/css-1572B6" width="100px;" alt=""/><br /><sub><b>css</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/javascript-F7DF1E" width="100px;" alt=""/><br/><sub><b>javascript</b></sub></a><br /></td>
+    </tr>
+      <td align="center"><img src="https://img.shields.io/badge/C-A8B9CC" width="100px;" alt=""/><br /><sub><b>C</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/go-00ADD8" width="100px;" alt=""/><br /><sub><b>Go</b></sub></a><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Rust-000000" width="100px;" alt=""/><br /><sub><b>Rust</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
     <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+    <img src="https://img.shields.io/badge/?style=flat-square&logo=android studio&logoColor=white">
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
