@@ -85,9 +85,9 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/swift-F05138" width="100px;" alt=""/><br /><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/c++-00599C" width="100px;" alt=""/><br /><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/python-3776AB" width="100px;" alt=""/><br /><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/swift-F05138" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/c++-00599C"  width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/python-3776AB" width="100px;" alt=""/><br /></td>
     </tr>
       <td align="center"><b>swift</b></td>
       <td align="center"><b>c++</b></td>
@@ -100,9 +100,9 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Andoid Studio-3DDC84" width="100px;" alt=""/><br /><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Xcode-147EFB" width="100px;" alt=""/><br /><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/visualstudiocode-007ACC" width="100px;" alt=""/><br /><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Andoid Studio-3DDC84" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Xcode-147EFB" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/visualstudiocode-007ACC" width="100px;" alt=""/><br /></td>
     </tr>
       <td align="center"><b>Android-Studio</b></td>
       <td align="center"><b>Xcode</b></td>
@@ -117,10 +117,10 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/iOS-000000" width="100px;" alt=""/><br /><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Android-34A853" width="100px;" alt=""/><br /><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624" width="100px;" alt=""/><br /><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/macos-000000" width="100px;" alt=""/><br /><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/iOS-000000" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Android-34A853" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://img.shields.io/badge/macos-000000" width="100px;" alt=""/><br /></td>
     </tr>
       <td align="center"><b>iOS 👍🏻</b></td>
       <td align="center"><b>Android</b></td>
