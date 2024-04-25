@@ -102,7 +102,7 @@
     <tr>
       <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="100px;" alt=""/><br /></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width="100px;" alt=""/><br /></td>
-      <td align="center"><img src="[https://img.shields.io/badge/visualstudiocode-007ACC](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png)" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="100px;" alt=""/><br /></td>
     </tr>
       <td align="center"><b>Android-Studio</b></td>
       <td align="center"><b>Xcode</b></td>
