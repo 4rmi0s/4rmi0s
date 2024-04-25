@@ -85,9 +85,9 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/swift-F05138" width="100px;" alt=""/><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/c++-00599C"  width="100px;" alt=""/><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/python-3776AB" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"  width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="100px;" alt=""/><br /></td>
     </tr>
       <td align="center"><b>swift</b></td>
       <td align="center"><b>c++</b></td>
@@ -100,9 +100,9 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Andoid Studio-3DDC84" width="100px;" alt=""/><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Xcode-147EFB" width="100px;" alt=""/><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/visualstudiocode-007ACC" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="[https://img.shields.io/badge/visualstudiocode-007ACC](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png)" width="100px;" alt=""/><br /></td>
     </tr>
       <td align="center"><b>Android-Studio</b></td>
       <td align="center"><b>Xcode</b></td>
@@ -117,10 +117,10 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/iOS-000000" width="100px;" alt=""/><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Android-34A853" width="100px;" alt=""/><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624" width="100px;" alt=""/><br /></td>
-      <td align="center"><img src="https://img.shields.io/badge/macos-000000" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" width="100px;" alt=""/><br /></td>
     </tr>
       <td align="center"><b>iOS 👍🏻</b></td>
       <td align="center"><b>Android</b></td>
