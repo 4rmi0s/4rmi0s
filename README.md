@@ -119,12 +119,10 @@
     <tr>
       <td align="center"><img src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" width="100px;" alt=""/><br /></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="100px;" alt=""/><br /></td>
-      <td align="center"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="100px;" alt=""/><br /></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" width="100px;" alt=""/><br /></td>
     </tr>
       <td align="center"><b>iOS 👍🏻</b></td>
       <td align="center"><b>Android</b></td>
-      <td align="center"><b>Linux</b></td>
       <td align="center"><b>MacOS</b></td>
     </tr>
   </tbody>
