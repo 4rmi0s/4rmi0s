@@ -89,11 +89,11 @@
     <tr>
       <td align="center"><img src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" width="100px;" alt=""/><br /></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"  width="100px;" alt=""/><br /></td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="100px;" alt=""/><br /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width="100px;" alt=""/><br /></td>
     </tr>
       <td align="center"><b>swift</b></td>
       <td align="center"><b>c++</b></td>
-      <td align="center"><b>Python</b></td>
+      <td align="center"><b>Rust</b></td>
     </tr>
   </tbody>
 </table>
