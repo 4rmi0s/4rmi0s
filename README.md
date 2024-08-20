@@ -6,9 +6,9 @@
 <img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=Armios" />
 
  ## 👨🏻‍🎓 Interested In 💻
- ### 1. 모바일 보안
+ ### 1. Mobile Security
  ### 2. LLVM
- ### 3. 컴파일러
+ ### 3. Compiler
  ### 4. iOS / AOS
  ### 5. Reverse Engineering
  ### 6. Jailbreaking / Rooting
