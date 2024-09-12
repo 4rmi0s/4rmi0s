@@ -33,7 +33,7 @@
      <ul>
       <li>디스코드 취약점 발견 및 분석 (0-day attack -> Patch -> 1-day attack)</li></br>
      </ul>
-     <li>순천향대학교 청소년 정보보호 페스티벌 2024 문제출시 - Forensic(what_is_aab)</li>
+     <li>순천향대학교 청소년 정보보호 페스티벌 2024 문제출제 - Forensic(what_is_aab)</li>
     </ul>
   </div>
 </details>
