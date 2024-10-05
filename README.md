@@ -63,6 +63,19 @@
 </details>
 
 <details>
+ <summary>ctf</summary>
+ <div>
+  </br>
+  <ul>
+   <li>
+    Fiesta2024 - 시나리오-S-3-1(Android), 시나리오-S-3-2(Android)
+   </li> 
+  </ul>
+  
+ </div>
+</details>
+
+<details>
   <summary>성적</summary>
 
   | 1학년 1학기 | 1학년 2학기 | 2학년 1학기 | 2학년 2학기 |
