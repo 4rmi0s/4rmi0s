@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: ParkHoHo
-          template: terminal
+          template: classical
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
           plugin_code: yes
