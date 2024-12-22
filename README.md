@@ -3,9 +3,17 @@
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkHoHo&count_bg=%23F2E987&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--<img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=Armios" /> !-->
-
 ![Metrics](/github-metrics.svg)
+
+
+<img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=Armios" /> 
+
+
+
+
+ <details>
+<summary> CV </summary>
+<div markdown="1">
 
  ## 👨🏻‍🎓 Interested In 💻
  ### 1. Mobile Security
@@ -14,7 +22,7 @@
  ### 4. iOS / AOS
  ### 5. Reverse Engineering
  ### 6. Jailbreaking / Rooting
- 
+
  ## 👨🏻‍🎓 Activity 💻
  <details markdown="1">
   <summary>학교</summary>
@@ -186,4 +194,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+</div>
+</details>
 
