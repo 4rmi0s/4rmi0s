@@ -1,3 +1,4 @@
+
 name: Metrics
 on:
   # Schedule daily updates
@@ -17,13 +18,3 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # Options
-          user: ParkHoHo
-          template: classical
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Seoul
-          plugin_code: yes
-          plugin_code_days: 3
-          plugin_code_lines: 12
-          plugin_code_load: 400
-          plugin_code_visibility: public
