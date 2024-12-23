@@ -6,13 +6,13 @@
 ![Metrics](/github-metrics.svg)
 
 
-<img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=Armios" /> 
+<!--<img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=Armios" /> !-->
 
 
 
 
  <details>
-<summary> CV </summary>
+<summary> Activities </summary>
 <div markdown="1">
 
  ## 👨🏻‍🎓 Interested In 💻
