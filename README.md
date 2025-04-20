@@ -40,9 +40,9 @@
           <li>논문 투고 - Man-in-the-middle Atack Simulation for Embedded System utilizing BLE Communicatoin(정보보호협회 추계학술대회)</li>
       </ul>
      </br>
-      <li>순천향대 취약점분석 동아리 TOOR 모바일 취약점 분석팀(2022.08~2023.03)</li>
+<!--       <li>순천향대 취약점분석 동아리 TOOR 모바일 취약점 분석팀(2022.08~2023.03)</li>
      <ul>
-      <li>디스코드 취약점 발견 및 분석 (0-day attack -> Patch -> 1-day attack)</li></br>
+      <li>디스코드 취약점 발견 및 분석 (0-day attack -> Patch -> 1-day attack)</li></br> -->
      </ul>
      <li>순천향대학교 청소년 정보보호 페스티벌 2024 문제출제 - Forensic(what_is_aab)</li>
     </ul>
